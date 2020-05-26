@@ -1,9 +1,4 @@
-<<<<<<< HEAD
 # Vue 实现网易云音乐 WebApp
-=======
-
->>>>>>> 9307da8b5ab8e0800d562de3803ec9b98ba47f97
-
  Vue + vuex + vue-router + axios  + Scss + ES6 等开发一款移动端音乐 WebApp
 
 UI 界面参考了网易云音乐
@@ -13,17 +8,17 @@ UI 界面参考了网易云音乐
 
 # 界面截图
 
->![主界面](.\ui\main.png)
+![主界面](./ui/main.png)
 
-![歌单列表](.\ui\list.png)
+![歌单列表](./ui/list.png)
 
-![播放界面](.\ui\play.png)
+![播放界面](./ui/play.png)
 
-![搜索](.\ui\search.png)
+![搜索](./ui/search.png)
 
-![搜索详细](.\ui\search1.png)
+![搜索详细](./ui/search1.png)
 
-![云村热评](.\ui\cloud.png)
+![云村热评](./ui/cloud.png)
 
 ## 实现
 
@@ -56,8 +51,10 @@ UI 界面参考了网易云音乐
 ``` bash
 # 下载后端项目到本地
 git clone https://github.com/Binaryify/NeteaseCloudMusicApi.git
+
 # 安装依赖模块
 npm install
+
 # 启动服务器
 node app.js
 ```
@@ -67,8 +64,10 @@ node app.js
 ```bash
 # 克隆到本地
 git clone https://github.com/Nan-aa/webMusic.git
+
 # 安装依赖模块
 npm install
+
 # 启动项目
 npm run dev
 ```
