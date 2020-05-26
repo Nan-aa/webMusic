@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Vue 实现网易云音乐 WebApp
+=======
+
+>>>>>>> 9307da8b5ab8e0800d562de3803ec9b98ba47f97
 
  Vue + vuex + vue-router + axios  + Scss + ES6 等开发一款移动端音乐 WebApp
 
