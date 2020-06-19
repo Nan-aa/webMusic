@@ -38,11 +38,11 @@ UI 界面参考了网易云音乐
 
 后端：Express 搭建的本地测试服务器  Node.js
 
-​			NeteaseCloudMusicApi：网易云音乐 NodeJS 版 API
+​			NeteaseCloudMusicApi：网易云音乐 NodeJS 版 API 
 
 ## 特别感谢
 
- [Binaryify](https://github.com/Binaryify) 对接口文档 [NeteaseCloudMusicApi](https://binaryify.github.io/NeteaseCloudMusicApi/#/?id=neteasecloudmusicapi) 的提供
+ [Binaryify](https://github.com/Binaryify) 对接口文档 [NeteaseCloudMusicApi](https://binaryify.github.io/NeteaseCloudMusicApi/#/?id=neteasecloudmusicapi) 的提供。
 
 ## Build Setup
 
